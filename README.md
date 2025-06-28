@@ -1,4 +1,4 @@
-ExpenseTracker
+#   ExpenseTracker
 You are tasked with building a simple financial app using React Native to help users manage their expenses and track their financial transactions.
 
 Task Description:
